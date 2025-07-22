@@ -3,7 +3,7 @@
 A **menu‑driven Java console application** built with **Maven**, **JPA**, and **Hibernate 7.x** that stores and manages records of women in history using a **PostgreSQL** database.
 
 ---
-# Group Member Name
+## Group Member Name
 
 Unnati Yuvraj Mane-Deshmukh
 
