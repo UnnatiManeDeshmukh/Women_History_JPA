@@ -7,7 +7,6 @@ A **menu‑driven Java console application** built with **Maven**, **JPA**, and 
 
 Unnati Yuvraj Mane-Deshmukh
 
-Priyanka Sachin Phadatare
 
 ---
 ## ✨ Features
